@@ -1,4 +1,5 @@
 ### Hi, I'm Binlerdev 👋⚡💬
+I'm a software engineer. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL
 
 <!--
 **binler/binler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
