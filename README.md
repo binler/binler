@@ -1,5 +1,5 @@
 ### Hi, I'm Binlerdev 👋⚡💬
-I'm a software engineer. Some technologies I enjoy working with include Javascript, ReactJS, PHP and Nodejs.
+I'm a software engineer. Some technologies I enjoy working with include Javascript, ReactJS, PHP and Nodejs.  
 ![](./hello.svg)
 <!--
 **binler/binler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
